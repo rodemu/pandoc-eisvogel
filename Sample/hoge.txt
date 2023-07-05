@@ -1,0 +1,13 @@
+---
+title: Pandocテスト
+...
+
+# 概要
+
+最新(pandoc/latex:edge)でのPandoc実験
+
+# PlantUML
+
+```{#fig:uml .plantuml caption="クラス図"}
+サブクラス -|> 親クラス\n日本語使えるよ
+```
